@@ -1,0 +1,67 @@
+
+
+h1 {
+  font-family: Arial;
+  color: white;
+}
+
+  color: white;
+  font-family: Calibri;
+  background-image: url("sanika.jpeg");
+   background-size: cover;
+  background-position: center;
+}
+h2 {
+    font-family: Courier New;
+}
+h4 {
+  text-decoration: underline;
+}
+#HOMEPAGEREDIRECT{
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+#luke-picture {
+  margin: -190px 200px 0px 1050px;
+}
+#luke {
+    margin: 0px 400px 0px 0px;
+}
+#attila-picture {
+  margin: -200px 200px 0px 1070px;
+}
+#attila {
+    margin: 0px 400px 0px 0px;
+}
+#nathan-picture {
+  margin: -200px 200px 0px 1070px;
+}
+#nathan {
+    margin: 0px 400px 0px 0px;
+}
+
+#chelsea {
+    margin: 0px 400px 0px 0px;
+  }
+#chelsea-picture {
+      margin: -130px 0px 50px 1030px;
+}
+#steve {
+      margin: 0px 400px 0px 0px;
+}
+#steve-picture {
+   margin: -100px 0px 50px 1050px;
+}
+#carly {
+  margin: 0px 400px 0px 0px;
+}
+
+#carly-picture {
+   margin: -50px 0px 0px 1050px;
+}
+#winnie {
+    margin: 0px 400px 0px 0px;
+  }
+#winnie-picture {
+      margin: -100px 0px 0px 1070px;
